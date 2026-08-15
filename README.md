@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hey, I'm Abinaya 👋✨
 
-<!--
-**abinayaa23/abinayaa23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AIML Student | 💻 Developer | 🌱 Always Learning
 
-Here are some ideas to get you started:
+> Learning today. Building tomorrow. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+🎓 B.E. Artificial Intelligence & Machine Learning Student  
+💡 Interested in AI, Software Development & Technology  
+🌱 Currently learning Python, Java & SQL  
+🚀 Improving my coding skills through projects and practice
+
+## 🛠️ Skills
+
+💻 Python  
+☕ Java  
+🗄️ SQL  
+🌐 HTML & CSS  
+⚡ JavaScript
+
+## 🚀 Projects
+
+### 🛒 Mini E-Commerce Website
+A simple e-commerce website created to practice web development.
+
+### ✅ To-Do App
+A simple task management application built to practice application development.
+
+## 🌱 Currently Learning
+
+Python • Java • SQL • DSA • Machine Learning
+
+## 🎯 My Goal
+
+> Learn. Build. Practice. Improve. Repeat. ✨
+
+## 📊 My Coding Journey
+
+💻 Building projects  
+📚 Learning new technologies  
+🔥 Practicing coding  
+🚀 Growing every day
+
+---
+
+### 💜 Thanks for visiting my profile!
+
+⭐ Explore my repositories and follow my journey.
